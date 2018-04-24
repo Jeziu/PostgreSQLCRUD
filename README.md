@@ -1,3 +1,3 @@
 # PostgreSQLCRUD
-run skrypt.sql to make sample database, 
+Run skrypt.sql to make sample database, 
 add database driver (.jar file) to your build path.
